@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "OpTyXenon Jobs",
+    "slug": "optyxenon_jobs",
+    "android": {
+      "package": "com.thexenon.optyxenon_jobs"
+    }
+  }
+}
